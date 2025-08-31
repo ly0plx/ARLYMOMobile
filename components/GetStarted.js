@@ -90,14 +90,14 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   signUpButton: {
-    backgroundColor: "white",
-    shadowColor: "#fff",
+    backgroundColor: "#2563eb",
+    shadowColor: "white",
     shadowOpacity: 0.1,
     shadowRadius: 10,
     elevation: 3,
   },
   signUpText: {
-    color: "black",
+    color: "white",
     fontSize: 18,
     fontWeight: "600",
   },
